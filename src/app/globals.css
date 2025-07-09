@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+ /* styles.css or module.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
